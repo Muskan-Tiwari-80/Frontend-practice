@@ -1,0 +1,161 @@
+Frontend Interview Questions - Day 1
+
+1. What is Frontend Development?
+
+Answer
+
+Frontend development is the part of web development that users can see and interact with in a browser. It focuses on designing and building the user interface (UI) using HTML, CSS, and JavaScript.
+
+A frontend developer ensures that websites look attractive, work smoothly, and are responsive across different devices.
+
+Real-Life Example
+
+Think of a restaurant.
+
+* The dining area, menu card, tables, and decorations are the frontend because customers interact with them.
+* The kitchen where food is prepared is the backend.
+
+Users only see the frontend, just like customers only see the restaurant’s dining area.
+
+⸻
+
+2. What are HTML, CSS, and JavaScript?
+
+HTML (HyperText Markup Language)
+
+HTML provides the structure of a webpage.
+
+It defines elements like:
+
+* Headings
+* Paragraphs
+* Images
+* Buttons
+* Forms
+
+CSS (Cascading Style Sheets)
+
+CSS is used to style HTML elements.
+
+It controls:
+
+* Colors
+* Fonts
+* Spacing
+* Layout
+* Animations
+
+JavaScript
+
+JavaScript adds functionality and interactivity.
+
+Examples include:
+
+* Login validation
+* Image sliders
+* Dark mode
+* Form validation
+* Shopping cart updates
+
+Real-Life Example
+
+Imagine building a house.
+
+* HTML = Bricks and walls (structure)
+* CSS = Paint, furniture, decorations (appearance)
+* JavaScript = Electricity, fans, doors, smart devices (functionality)
+
+⸻
+
+3. What is a Web Browser?
+
+Answer
+
+A web browser is software that displays websites by reading HTML, CSS, and JavaScript files.
+
+Popular browsers include:
+
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
+* Safari
+
+Real-Life Example
+
+A browser is like a TV.
+
+The website is the movie.
+
+The TV reads and displays the movie just as the browser reads and displays website code.
+
+⸻
+
+4. What happens when you open a website?
+
+Answer
+
+When you type a website address:
+
+1. Browser sends a request to the server.
+2. Server processes the request.
+3. Server sends HTML, CSS, JavaScript, and images.
+4. Browser downloads the files.
+5. Browser builds and displays the webpage.
+6. JavaScript adds interactivity.
+
+Real-Life Example
+
+Ordering food online.
+
+* You place an order.
+* Restaurant receives it.
+* Food is prepared.
+* Delivery partner brings it.
+* You receive and enjoy it.
+
+Similarly:
+
+* Browser requests the webpage.
+* Server prepares it.
+* Browser displays it.
+
+⸻
+
+5. What is Responsive Design?
+
+Answer
+
+Responsive design ensures that a website looks good on all screen sizes, such as desktops, tablets, and smartphones.
+
+It mainly uses:
+
+* Flexible layouts
+* CSS Flexbox
+* CSS Grid
+* Media Queries
+
+Real-Life Example
+
+A water bottle fits in a school bag, office bag, or travel bag.
+
+Similarly, a responsive website adjusts itself according to the screen size.
+
+
+6. What is an IDE?
+
+Answer
+
+An IDE (Integrated Development Environment) is software used to write, edit, debug, and manage code.
+
+Popular IDEs:
+
+* Visual Studio Code
+* WebStorm
+* Sublime Text
+
+Real-Life Example
+
+An IDE is like a carpenter’s toolbox.
+
+Instead of searching for each tool separately, everything needed is available in one place.
+
